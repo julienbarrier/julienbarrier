@@ -30,11 +30,11 @@ career, involving physics and lab tasks automation.
 
 ### latest blog posts
 <!-- BLOG-POST-LIST:START -->
+* [I am joining MPI-FKF](http://julienbarrier.eu/blog/2025/12/03/hiring.html) - 3 Dec 2025
 * [Manchester scientists found novel one-dimensional superconductor](http://julienbarrier.eu/blog/press/2024/04/24/1Dproximity.html) - 24 Apr 2024
 * [Return from APS March 2024](http://julienbarrier.eu/blog/2024/03/25/APSMarch24.html) - 25 Mar 2024
 * [What is a quasiparticle?](http://julienbarrier.eu/blog/2024/01/01/quasiparticles.html) - 1 Jan 2024
-* [Refresh your nobel predictions](http://julienbarrier.eu/blog/2023/10/02/nobel.html) - 2 Oct 2023
-* [How to write a research proposal](http://julienbarrier.eu/blog/2023/03/08/how-to-write-proposal-sg.html) - 8 Mar 2023<!-- BLOG-POST-LIST:END -->  
+* [Refresh your nobel predictions](http://julienbarrier.eu/blog/2023/10/02/nobel.html) - 2 Oct 2023<!-- BLOG-POST-LIST:END -->  
 more on [julienbarrier.eu](https://julienbarrier.eu/)
 
 ### stats
