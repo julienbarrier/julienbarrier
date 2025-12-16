@@ -22,7 +22,7 @@ career, involving physics and lab tasks automation.
 
 <!-- here add a list of projects -->
 
-<!-- ### code and data for academic papers
+<!-- ### code and data for academic papers -->
 
 ### latest blog posts
 
