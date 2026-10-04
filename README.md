@@ -27,8 +27,8 @@ and I am building a group that does the same.
 ### latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+* [Announcing mesoscopy: a GUI for running experiments](http://julienbarrier.eu/blog/2026/10/04/mesoscopy.html) - 4 Oct 2026
 * [I am joining MPI-FKF](http://julienbarrier.eu/blog/2025/12/03/hiring.html) - 3 Dec 2025
-* [Manchester scientists found novel one-dimensional superconductor](http://julienbarrier.eu/blog/press/2024/04/24/1Dproximity.html) - 24 Apr 2024
-* [Return from APS March 2024](http://julienbarrier.eu/blog/2024/03/25/APSMarch24.html) - 25 Mar 2024<!-- BLOG-POST-LIST:END -->
+* [Manchester scientists found novel one-dimensional superconductor](http://julienbarrier.eu/blog/press/2024/04/24/1Dproximity.html) - 24 Apr 2024<!-- BLOG-POST-LIST:END -->
 
 see more on [julienbarrier.eu](https://julienbarrier.eu/blog)
