@@ -8,11 +8,11 @@ jobs:
     name: Update readme with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: julienbarrier/blog-post-workflow@master
         with:
           feed_list: "https://julienbarrier.eu/feed.xml"
-          max_post_count: 5
+          max_post_count: 3
           committer_username: "julienbarrier"
           committer_email: "1346858+julienbarrier@users.noreply.github.com"
           commit_message: "updated readme with blog post"
